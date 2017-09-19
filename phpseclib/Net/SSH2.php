@@ -1328,8 +1328,8 @@ class SSH2
 
         $encryption_algorithms = [
             // from <http://tools.ietf.org/html/rfc4345#section-4>:
-            'arcfour256',
-            'arcfour128',
+            //'arcfour256',
+            //'arcfour128',
 
             //'arcfour',      // OPTIONAL          the ARCFOUR stream cipher with a 128-bit key
 
